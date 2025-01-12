@@ -11,5 +11,3 @@ print("sum is -> ",sum)
 print("sub is -> ",sub)
 print("mul is -> ",mul)
 print("div is -> ",div)
-
-
